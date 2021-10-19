@@ -1,0 +1,15 @@
+C:\Users\tomas\Documents\DSSD-Workspace\ApiEstampillado\src\main\java\com\dssd\apiestampillado\config\WebSecurityConfig.java
+C:\Users\tomas\Documents\DSSD-Workspace\ApiEstampillado\src\main\java\com\dssd\apiestampillado\services\JwtUserDetailsService.java
+C:\Users\tomas\Documents\DSSD-Workspace\ApiEstampillado\src\main\java\com\dssd\apiestampillado\models\Escribano.java
+C:\Users\tomas\Documents\DSSD-Workspace\ApiEstampillado\src\main\java\com\dssd\apiestampillado\config\JwtRequestFilter.java
+C:\Users\tomas\Documents\DSSD-Workspace\ApiEstampillado\src\main\java\com\dssd\apiestampillado\models\JwtRequest.java
+C:\Users\tomas\Documents\DSSD-Workspace\ApiEstampillado\src\main\java\com\dssd\apiestampillado\iservices\IEscribanoService.java
+C:\Users\tomas\Documents\DSSD-Workspace\ApiEstampillado\src\main\java\com\dssd\apiestampillado\models\JwtResponse.java
+C:\Users\tomas\Documents\DSSD-Workspace\ApiEstampillado\src\main\java\com\dssd\apiestampillado\controllers\JwtAuthenticationController.java
+C:\Users\tomas\Documents\DSSD-Workspace\ApiEstampillado\src\main\java\com\dssd\apiestampillado\controllers\Controller.java
+C:\Users\tomas\Documents\DSSD-Workspace\ApiEstampillado\src\main\java\com\dssd\apiestampillado\controllers\SolicitudEstampillado.java
+C:\Users\tomas\Documents\DSSD-Workspace\ApiEstampillado\src\main\java\com\dssd\apiestampillado\config\JwtTokenUtil.java
+C:\Users\tomas\Documents\DSSD-Workspace\ApiEstampillado\src\main\java\com\dssd\apiestampillado\ApiEstampilladoApplication.java
+C:\Users\tomas\Documents\DSSD-Workspace\ApiEstampillado\src\main\java\com\dssd\apiestampillado\config\JwtAuthenticationEntryPoint.java
+C:\Users\tomas\Documents\DSSD-Workspace\ApiEstampillado\src\main\java\com\dssd\apiestampillado\repository\EscribanoRepository.java
+C:\Users\tomas\Documents\DSSD-Workspace\ApiEstampillado\src\main\java\com\dssd\apiestampillado\services\EscribanoService.java
